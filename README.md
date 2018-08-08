@@ -4,6 +4,7 @@
 ### Index
 * [Learning Objective](#learning-objective)
 * [Study Snippet](#study-snippet)
+* [Diagram](#diagram)
 * [Helpful Links](#helpful-links)
 
 ___
@@ -32,8 +33,20 @@ let input = 0;
  * Python Tutorial 
  
  [Left-Hand-Side](https://goo.gl/qH2MsR)
+ 
  [Right-Hand-Side](https://goo.gl/Puq2gN)
  
+ [Whole Expression](https://goo.gl/Jdkc4h)
+ 
+ 
+[TOP](#index)
+
+___ 
+
+## Diagram
+
+<a href="https://ibb.co/gPGDRK"><img src="https://preview.ibb.co/fsgf6K/IMG_1206.jpg" alt="IMG_1206" border="0"></a>
+
 [TOP](#index)
 
 ___
